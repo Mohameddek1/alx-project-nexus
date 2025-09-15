@@ -43,6 +43,51 @@ Project Nexus is a documentation repository that consolidates major learnings fr
 
 ### APIs & Communication
 - RESTful API design (Resource modeling, pagination, filtering)
+# Project Nexus — ProDev Backend Engineering Documentation
+
+Duration: Sep 8, 2025 — Sep 15, 2025
+
+Project Nexus is a documentation repository that consolidates major learnings from the ProDev Backend Engineering program. This repository serves as a knowledge hub and reference for backend concepts, tools, challenges encountered during the program, and best practices.
+
+## Project Objective
+
+- Consolidate key learnings from the ProDev Backend Engineering program.
+- Document major backend technologies, concepts, challenges, and solutions.
+- Serve as a reference guide for current and future learners.
+- Foster collaboration between frontend and backend learners.
+
+## Key Features
+
+- Comprehensive Documentation covering:
+  - RESTful APIs
+  - GraphQL APIs
+  - Message Queues (Celery & RabbitMQ)
+  - CI/CD Pipelines
+  - Docker & Containerization
+  - System Design and Scaling
+- Challenges & Solutions: Real-world challenges faced during exercises and projects, with implemented solutions and reasoning.
+- Best Practices & Takeaways: Industry-standard recommendations, coding conventions, and personal reflections.
+- Collaboration Hub: Guidance on how frontend and backend learners can collaborate effectively.
+
+## Major Learnings & Topics Covered
+
+### Languages & Frameworks
+- Python (3.8+)
+- Django & Django REST Framework
+- Graphene (GraphQL for Django)
+
+### Databases & Storage
+- Relational Databases: PostgreSQL, SQLite (for development)
+- Data Modeling and Normalization
+- Indexing and Query Optimization
+
+### Asynchronous Processing
+- Celery for background tasks
+- RabbitMQ / Redis as message brokers
+- Task monitoring and retry strategies
+
+### APIs & Communication
+- RESTful API design (Resource modeling, pagination, filtering)
 - GraphQL schema design and best practices
 - API authentication & authorization (JWT, Token-based auth)
 
@@ -110,4 +155,4 @@ MIT License
 
 ---
 
-For more resources and sample projects, check the `examples/` directory (to be added) and open issues if you need help or want to propose changes.
+For more resources and sample projects, check the `examples/` directory and the files in `examples/` for ERD, slides, demo guidelines and hosting notes.
